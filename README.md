@@ -1,4 +1,4 @@
-# Fiji-Macros-for-in vivo brain quantitative immunohistochemistry analysis
+# Fiji macros for quantitative immunohistochemistry analysis (in vivo histology)
 Uploaded files are Fiji macros customized to to batch analyze in vivo rat immunohistochemistry brain images for quantitative analysis.
 All thresholding algorithms used in the macros are available on Fiji software (ImageJ version 1.54f, National Institutes of Health; Bethesda, MD, USA).
 
